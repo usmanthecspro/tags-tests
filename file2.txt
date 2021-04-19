@@ -1,1 +1,2 @@
 second text file
+some changes now in file
